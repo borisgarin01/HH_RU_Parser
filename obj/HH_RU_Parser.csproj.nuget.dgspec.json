@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/borisgarin/Projects/HH_RU_Parser/HH_RU_Parser/HH_RU_Parser.csproj": {}
+  },
+  "projects": {
+    "/Users/borisgarin/Projects/HH_RU_Parser/HH_RU_Parser/HH_RU_Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/borisgarin/Projects/HH_RU_Parser/HH_RU_Parser/HH_RU_Parser.csproj",
+        "projectName": "HH_RU_Parser",
+        "projectPath": "/Users/borisgarin/Projects/HH_RU_Parser/HH_RU_Parser/HH_RU_Parser.csproj",
+        "packagesPath": "/Users/borisgarin/.nuget/packages/",
+        "outputPath": "/Users/borisgarin/Projects/HH_RU_Parser/HH_RU_Parser/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/borisgarin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

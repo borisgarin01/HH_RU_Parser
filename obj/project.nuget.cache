@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfQwmbB7ks0EuecjuXWo7A4r9bv6QcxNaTQ/QW4R5NdtB9d5pk7/1DjkoFB6ku6jL7ArWQ4KlPCFl4bu05KD0Q==",
+  "success": true,
+  "projectFilePath": "/Users/borisgarin/Projects/HH_RU_Parser/HH_RU_Parser/HH_RU_Parser.csproj",
+  "expectedPackageFiles": [
+    "/Users/borisgarin/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/npgsql/6.0.4/npgsql.6.0.4.nupkg.sha512",
+    "/Users/borisgarin/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
